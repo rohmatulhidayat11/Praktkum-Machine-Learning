@@ -1,3 +1,1 @@
-Nama : Rohmatul Hidayat
-NIM : 0110224015
-Rombel : TI06
+TI06_Rohmatul Hidayat_0110224015
